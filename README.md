@@ -1,3 +1,5 @@
+SCRIPT NO LONGER MAINTAINED
+
 # IDM Activation Script
 _________________________________
 
