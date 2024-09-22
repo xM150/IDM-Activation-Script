@@ -1,4 +1,5 @@
 SCRIPT NO LONGER MAINTAINED
+WILL POPUP ERROR IF USED FREQUENTLY
 
 # IDM Activation Script
 _________________________________
